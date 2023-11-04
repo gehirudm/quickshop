@@ -1,0 +1,10 @@
+Nov 04, 2023 6:24:00 PM quickshop.services.UsersService login
+INFO: User with username admin tried to login with a wrong password.
+Nov 04, 2023 6:24:03 PM quickshop.services.UsersService login
+INFO: User with username admin tried to login with a wrong password.
+Nov 04, 2023 6:24:09 PM quickshop.services.UsersService login
+INFO: User with username admin tried to login with a wrong password.
+Nov 04, 2023 6:24:11 PM quickshop.services.UsersService login
+INFO: User with username admin logged in.
+Nov 04, 2023 6:25:11 PM quickshop.services.UsersService login
+INFO: User with username cashier logged in.

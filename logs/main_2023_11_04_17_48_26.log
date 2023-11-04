@@ -1,0 +1,50 @@
+Nov 04, 2023 5:49:53 PM quickshop.services.UsersService createUser
+INFO: Created 'User' of type admin with ID f1880056-327c-4609-88d9-ad7bed4e30ba
+Nov 04, 2023 5:49:53 PM quickshop.services.UsersService createUser
+INFO: Created 'User' of type cashier with ID a84ec051-3449-4bd9-b328-1a1dfb02a190
+Nov 04, 2023 5:49:53 PM quickshop.services.ItemsService createItem
+INFO: Created new 'Item' with ID of a382bad5-84f7-4f67-8b02-0600a16f3773
+Nov 04, 2023 5:49:53 PM quickshop.services.ItemsService createItem
+INFO: Created new 'Item' with ID of b9253750-eb74-45e3-a5db-387c6f00a652
+Nov 04, 2023 5:49:53 PM quickshop.services.EnvironmentService setCompanyName
+INFO: Updated company name to My Company
+Nov 04, 2023 5:49:53 PM quickshop.services.EnvironmentService setLang
+INFO: Updated language to English
+Nov 04, 2023 5:49:53 PM quickshop.services.EnvironmentService setSetupCompleted
+INFO: Set setup completed to true
+Nov 04, 2023 5:49:53 PM quickshop.services.EnvironmentService setup
+INFO: Setup Completed
+Nov 04, 2023 5:49:59 PM quickshop.services.UsersService login
+INFO: User with username cashier logged in.
+Nov 04, 2023 5:50:47 PM quickshop.services.ItemsService updateItemStockByDiff
+INFO: Updated 'Item' with ID a382bad5-84f7-4f67-8b02-0600a16f3773's stock from org.apache.derby.impl.jdbc.EmbedResultSet42@7ecda507toorg.apache.derby.impl.jdbc.EmbedResultSet42@7ecda507-3
+Nov 04, 2023 5:50:47 PM quickshop.services.ItemsService updateItemStockByDiff
+INFO: Updated 'Item' with ID b9253750-eb74-45e3-a5db-387c6f00a652's stock from org.apache.derby.impl.jdbc.EmbedResultSet42@1c56fbd0toorg.apache.derby.impl.jdbc.EmbedResultSet42@1c56fbd0-3
+Nov 04, 2023 5:50:47 PM quickshop.services.SalesService createSale
+INFO: Created 'Sale' with ID 81cf3747-579e-4168-a2f2-fc9bff1a2368
+Nov 04, 2023 5:51:01 PM quickshop.services.ItemsService updateItemStockByDiff
+INFO: Updated 'Item' with ID a382bad5-84f7-4f67-8b02-0600a16f3773's stock from org.apache.derby.impl.jdbc.EmbedResultSet42@505ce969toorg.apache.derby.impl.jdbc.EmbedResultSet42@505ce969-6
+Nov 04, 2023 5:51:01 PM quickshop.services.ItemsService updateItemStockByDiff
+INFO: Updated 'Item' with ID b9253750-eb74-45e3-a5db-387c6f00a652's stock from org.apache.derby.impl.jdbc.EmbedResultSet42@b011d6btoorg.apache.derby.impl.jdbc.EmbedResultSet42@b011d6b-3
+Nov 04, 2023 5:51:01 PM quickshop.services.SalesService createSale
+INFO: Created 'Sale' with ID b188788f-6b32-4bcd-91cd-a47a9d9d99b5
+Nov 04, 2023 5:51:24 PM quickshop.services.UsersService login
+INFO: User with username admin tried to login with a wrong password.
+Nov 04, 2023 5:51:26 PM quickshop.services.UsersService login
+INFO: User with username admin logged in.
+Nov 04, 2023 5:51:41 PM quickshop.services.UsersService createUser
+INFO: Created 'User' of type admin with ID cf82fd17-a306-4661-8855-1d0534dad7d4
+Nov 04, 2023 5:51:50 PM quickshop.services.UsersService deleteUser
+INFO: Deleted 'User' with ID cf82fd17-a306-4661-8855-1d0534dad7d4
+Nov 04, 2023 5:52:23 PM quickshop.services.ItemsService createItem
+INFO: Created new 'Item' with ID of 564a6005-a8f9-42bd-95be-287d8e779260
+Nov 04, 2023 5:53:13 PM quickshop.services.EnvironmentService deleteLogoFile
+INFO: Logo file deleted
+Nov 04, 2023 5:53:13 PM quickshop.services.EnvironmentService updateCompanyName
+INFO: Updated company name to My New Company
+Nov 04, 2023 5:53:18 PM quickshop.services.UsersService login
+INFO: User with username cashier logged in.
+Nov 04, 2023 5:53:33 PM quickshop.services.UsersService login
+INFO: User with username admin tried to login with a wrong password.
+Nov 04, 2023 5:53:35 PM quickshop.services.UsersService login
+INFO: User with username admin logged in.
